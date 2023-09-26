@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "Cat-Or-Dog-Classification"
+project_name = "Cat_Or_Dog_Classification"
 
 # List of directories and files of project
 list_of_files = [
